@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\c\u8BED\u8A00\u6587\u4EF6\\test10.9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C3F55F-AB22-472D-8CD6-90F78F046A8D}|test10.9\\test10.9.vcxproj|C:\\code\\c\u8BED\u8A00\u6587\u4EF6\\test10.9\\test10.9\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64C3F55F-AB22-472D-8CD6-90F78F046A8D}|test10.9\\test10.9.vcxproj|solutionrelative:test10.9\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\code\\c\u8BED\u8A00\u6587\u4EF6\\test10.9\\test10.9\\test.c",
+              "RelativeDocumentMoniker": "test10.9\\test.c",
+              "ToolTip": "C:\\code\\c\u8BED\u8A00\u6587\u4EF6\\test10.9\\test10.9\\test.c*",
+              "RelativeToolTip": "test10.9\\test.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-09T14:15:05.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
