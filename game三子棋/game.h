@@ -13,6 +13,8 @@ void displayboard(char board[ROW][COL], int row, int col);
 void playermove(char board[ROW][COL], int row, int col);
 //µçÄÔÏÂÆå
 void ComputerMove(char board[ROW][COL], int row, int col);
+//ÅĞ¶ÏÊäÓ®
+void Iswin(char board[ROW][COL], int row, int col);
 
 
 

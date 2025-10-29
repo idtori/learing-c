@@ -83,3 +83,8 @@ void ComputerMove(char board[ROW][COL], int row, int col)
 		}
 	}
 }
+
+void Iswin(char board[ROW][COL], int row, int col)
+{
+
+}

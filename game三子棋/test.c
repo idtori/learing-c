@@ -15,9 +15,11 @@ void game()
 	while (1)//½»ÌæÏÂÆå
 	{
 		playermove(board, ROW, COL);
+		Iswin(board, ROW, COL);
 		system("cls");
 		displayboard(board, ROW, COL);
 		ComputerMove(board, ROW, COL);
+		Iswin(board, ROW, COL);
 		system("cls");
 		displayboard(board, ROW, COL);
 	}
