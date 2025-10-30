@@ -1,0 +1,8 @@
+﻿  test.c
+C:\code\c语言文件\test,10,24\test,10,24\test.c(31,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\code\c语言文件\test,10,24\test,10,24\test.c(36,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\code\c语言文件\test,10,24\test,10,24\test.c(41,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\code\c语言文件\test,10,24\test,10,24\test.c(46,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\code\c语言文件\test,10,24\test,10,24\test.c(51,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\code\c语言文件\test,10,24\test,10,24\test.c(56,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test,10,24.vcxproj -> C:\code\c语言文件\test,10,24\x64\Debug\test,10,24.exe
