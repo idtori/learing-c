@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git-code\\c-language-sctudy\\test.10.30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A4B91-4B95-47BC-BBC4-6F853DA02239}|test.10.30\\test.10.30.vcxproj|C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D9A4B91-4B95-47BC-BBC4-6F853DA02239}|test.10.30\\test.10.30.vcxproj|solutionrelative:test.10.30\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9A4B91-4B95-47BC-BBC4-6F853DA02239}|test.10.30\\test.10.30.vcxproj|C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D9A4B91-4B95-47BC-BBC4-6F853DA02239}|test.10.30\\test.10.30.vcxproj|solutionrelative:test.10.30\\test.2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.2.c",
+              "DocumentMoniker": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.2.c",
+              "RelativeDocumentMoniker": "test.10.30\\test.2.c",
+              "ToolTip": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.2.c",
+              "RelativeToolTip": "test.10.30\\test.2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-30T14:03:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c",
+              "RelativeDocumentMoniker": "test.10.30\\test.c",
+              "ToolTip": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c",
+              "RelativeToolTip": "test.10.30\\test.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-30T13:26:11.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  test.c
+C:\git-code\c-language-sctudy\test.10.30\test.10.30\test.c(33,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\git-code\c-language-sctudy\test.10.30\test.10.30\test.c(34,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test.10.30.vcxproj -> C:\git-code\c-language-sctudy\test.10.30\x64\Debug\test.10.30.exe
