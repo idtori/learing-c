@@ -33,6 +33,23 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c",
+              "RelativeDocumentMoniker": "test.10.30\\test.c",
+              "ToolTip": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c",
+              "RelativeToolTip": "test.10.30\\test.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-30T13:26:11.711Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "test.2.c",
@@ -42,25 +59,7 @@
               "RelativeToolTip": "test.10.30\\test.2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-30T14:03:09.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.c",
-              "DocumentMoniker": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c",
-              "RelativeDocumentMoniker": "test.10.30\\test.c",
-              "ToolTip": "C:\\git-code\\c-language-sctudy\\test.10.30\\test.10.30\\test.c*",
-              "RelativeToolTip": "test.10.30\\test.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-30T13:26:11.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2025-10-30T14:03:09.437Z"
             },
             {
               "$type": "Bookmark",
