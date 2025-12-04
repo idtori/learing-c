@@ -3,7 +3,7 @@
 
 int main()
 {
-	int len_a = 0;
+	/*int len_a = 0;
 	int len_b = 0;
 	int i = 0;
 	char a[100] = { 0 }, b[100] = { 0 };
@@ -25,13 +25,14 @@ int main()
 	{
 		a[len_a + i] = b[i];
 	}
-	printf("%s", a);
+	printf("%s", a);*/
 
 
 	int len_s1 = 0;
 	int len_s2 = 0;
 	int j = 0;
 	int k = 0;
+	int min = 0;
 	char s1[100] = { 0 };
 	char s2[100] = { 0 };
 	gets(s1);
@@ -46,7 +47,8 @@ int main()
 	{
 		len_s2++;
 	}
-	for (i = 0; i < len_s1 + len_s2; i++)
+	min = (len_s1 < len_s2) ? len_s1 : len_s2;
+	for (i = 0; i < 2 * min; i++)
 	{
 		if (i % 2 == 0)
 		{
@@ -63,7 +65,14 @@ int main()
 	{
 		for (i = 0; i < len_s2 - len_s1; i++)
 		{
-			s[2 * len_s1] = s2[len_s1 + i];
+			s[2 * len_s1 + i] = s2[len_s1 + i];
+		}
+	}
+	if (len_s1 > len_s2)
+	{
+		for (i = 0; i < len_s1 - len_s2; i++)
+		{
+			s[2 * len_s2 + i] = s1[len_s2 + i];
 		}
 	}
 	printf("%s", s);
