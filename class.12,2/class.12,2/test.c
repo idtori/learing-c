@@ -3,7 +3,7 @@
 
 int main()
 {
-	/*int len_a = 0;
+	int len_a = 0;
 	int len_b = 0;
 	int i = 0;
 	char a[100] = { 0 }, b[100] = { 0 };
@@ -25,8 +25,9 @@ int main()
 	{
 		a[len_a + i] = b[i];
 	}
-	printf("%s", a);*/
+	printf("%s", a);
 
+	printf("\n");
 
 	int len_s1 = 0;
 	int len_s2 = 0;
@@ -37,7 +38,7 @@ int main()
 	char s2[100] = { 0 };
 	gets(s1);
 	gets(s2);
-	int i = 0;
+	
 	char  s[100] = { 0 };
 	for (i = 0; s1[i] != 0; i++)
 	{
